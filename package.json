@@ -1,0 +1,31 @@
+{
+  "name": "chihuo",
+  "version": "1.0.0",
+  "description": "GET reservation faster~~",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/alicextt/chihuo.git"
+  },
+  "keywords": [
+    "Javascript",
+    "Din",
+    "Tang",
+    "Fung"
+  ],
+  "author": "splaybst",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/alicextt/chihuo/issues"
+  },
+  "homepage": "https://github.com/alicextt/chihuo#readme",
+  "dependencies": {
+    "fs": "0.0.2",
+    "lodash": "^4.13.1",
+    "util": "^0.10.3",
+    "xmlhttprequest": "^1.8.0"
+  }
+}
